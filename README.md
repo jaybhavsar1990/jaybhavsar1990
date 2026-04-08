@@ -1,6 +1,6 @@
 # Jay Bhavsar - Technical Project Lead & Full Stack Developer
 
-This GitHub profile belongs to Jay Bhavsar, a Full Stack Developer with over 12 years of experience. Jay is a Technical Project Lead with a passion for using technology to solve complex user problems and deliver robust, scalable solutions. Proven experience includes diverse projects across various domains and geographies (USA, Australia, South Africa, Canada). Excellent communication skills are a key strength.
+This GitHub profile belongs to Jay Bhavsar, a Full Stack Developer with over 13 years of experience. Jay is a Technical Project Lead with a passion for using technology to solve complex user problems and deliver robust, scalable solutions. Proven experience includes diverse projects across various domains and geographies (USA, Australia, South Africa, Canada). Excellent communication skills are a key strength.
 
 ## 🚀 Expertise & Specializations
 
